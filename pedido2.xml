@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedido>
+  <numero>987654</numero>
+  <cliente>123.123.123-00</cliente>
+  <departamento>TI</departamento>
+  <produtos>
+    <produto>
+      <codigo>hw003</codigo>
+      <quantidade>2</quantidade>
+    </produto>
+    <produto>
+      <codigo>hw005</codigo>
+      <quantidade>1</quantidade>
+    </produto>
+    <produto>
+      <codigo>hw004</codigo>
+      <quantidade>10</quantidade>
+    </produto>
+  </produtos>
+</pedido>
